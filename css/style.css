@@ -273,6 +273,11 @@ pre {
   padding: 10px;
 }
 
+.hidden {
+  height: 0;
+  visibility: hidden;
+}
+
 /* Animations */
 
 @keyframes sildeInFromLeft {
